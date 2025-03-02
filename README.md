@@ -1,0 +1,2 @@
+# TÜBİTAK_2209A_Project
+ This project aims to develop an AI-driven model for detecting Chenopodium album L. and Amaranthus retroflexus L. weeds in potato fields using deep learning and image processing techniques. By integrating machine learning, the system will enhance precision agriculture, enabling early and accurate weed identification. The goal is to improve crop yield, reduce herbicide usage, and support sustainable farming practices in Turkey. This research is designed for TÜBİTAK funding and will contribute to advancing AI applications in agriculture.
